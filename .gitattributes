@@ -1,2 +1,27 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="pt-Br"> 
+    <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1><font color="purple"> Explicando e exemplificando o uso das tags </font></h1>
+        <h2><br>Table:O elemento HTML Table (< table>) representa dados em duas dimensões ou mais.</br></h2>
+        <h3><br>Del:representa uma parte do texto que foi excluída de um documento. Este elemento é (não necessariamente) renderizado pelos navegadores com uma linha entre o texto.</br></h3>
+        <h4><br>ins:The HTML < ins> Element (or HTML Inserted Text) HTML represents a range of text that has been added to a document.</br></h4>
+        <h5></br>sub:O elemento HTML < sub> especifica o texto embutido que deve ser exibido como subscrito por razões exclusivamente tipográficas. Os subscritos são normalmente renderizados com uma linha de base reduzida usando texto menor</br></h5>
+        <h6></br>sup:O elemento HTML < sup> especifica o texto embutido que deve ser exibido como sobrescrito por razões exclusivamente tipográficas. Os sobrescritos geralmente são renderizados com uma linha de base elevada usando texto menor.</br></h6>
+        <h7></br>blockquote:O Elemento HTML < blockquote> (ou Elemento HTML de citação de bloco) indica que o texto incluído é uma longa citação. Normalmente, este é processado visualmente pelo recuo (ver Notas sobre como mudá-lo). A URL para a fonte da citação pode ser dada usando o atributo cite, enquanto uma representação de texto da fonte pode ser dada usando o cite elemento.</br></h7>
+        <h8></br>q:Este elemento inclui os atributos globais.</br></h8>
+        <h9></br>abbr:O Elemento HTML < abbr> (ou Elemento de Abreviação HTML) representa uma abreviação e opcionalmente fornece uma descrição completa para ela. Se presente, o atributo title deve conter a descrição completa e apenas ela.</br></h9>
+        <h10></br>address:O elemento HTML < address> fornece informações de contato para seu ancestral article ou body mais próximo; no segundo caso, ele se aplica ao documento inteiro.</br></h10>
+        <h11></br>cite:	O elemento HTML < cite> representa uma referência a um trabalho artístico. Deve incluir o título do trabalho ou uma URL de referência, que pode ser em uma forma abreviada de acordo com as convenções usadas para a adição dos metadados de citação.</br></h11>
+        <h12></br>bdo:O elemento HTML < bdo> (bidirectional override) é usado para substituir a direcionalidade atual do texto. Isso faz com que a direcionalidade dos personagens seja ignorada em favor da direcionalidade especificada.</br></h12>
+        <h13></br>code:O elemento HTML < code>  apresenta seu conteúdo estilizado de maneira a indicar que o texto é um pequeno fragmento de código. Por padrão</br></h13>
+        <h14></br>pre:TML texto preformatado (< pre>) é a tag utilizada para representar texto pré-formatado. Um texto dentro desse elemento é tipicamente exibido em uma fonte não proporcional da mesma maneira em que o texto original foi disposto no arquivo. Espaços em branco são mantidos no texto da mesma forma em que este foi digitado. </br></h14>
+        <h15></br>kbd:O elemento HTML < kbd> representa uma extensão de texto embutido denotando a entrada textual do usuário a partir de um teclado, entrada de voz ou qualquer outro dispositivo de entrada de texto. Por convenção, o padrão do agente do usuário é renderizar o conteúdo de um elemento < kbd> usando sua fonte monoespaçada padrão, embora isso não seja obrigatório pelo padrão HTML.</br></h15>
+    </body>
+</html>
